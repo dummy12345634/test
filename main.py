@@ -1,2 +1,1 @@
-print('sachin')
 print("tinku")
