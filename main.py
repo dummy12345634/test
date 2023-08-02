@@ -1,2 +1,1 @@
-if 11>10:
-    print('sachin')
+print("sachin")
