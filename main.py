@@ -1,1 +1,2 @@
-print("tinku")
+if 11>10:
+    print('sachin')
